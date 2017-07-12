@@ -27,6 +27,8 @@ sudo pip3 install --upgrade virtualenv
 install flexget as in (https://flexget.com/InstallWizard/Linux):
 
 ```
+cd ~
+virtualenv flexget
 cd ~/flexget/
 bin/pip install flexget
 ```
